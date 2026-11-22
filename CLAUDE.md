@@ -15,4 +15,6 @@
 - 不写死 App 路径、App 名或 `t3` 路径。不修改用户的任何设置和权限。
 - 必须是 arm64 + x86_64，最低 macOS 13。不用 `osacompile`：它会把最低系统版本设成编译机的版本。
 - 改动后先 `./tests/run.sh` 再 `./build.sh`。源码和产物一起提交。
+- 发版：版本号与 tag 一致，附件固定命名 `Open.in.T3.Code.macOS.zip`，从 tag 用 `git archive` 生成，只含 App。先验草稿附件再公开。README 用 `releases/latest/download` 链接。
+- 第三方声明和许可证由 `build.sh` 打进 App，不要去掉。
 - 中英文 README 同步改。push 和发版前先问维护者。

@@ -29,7 +29,7 @@ You do not need the `t3` command or Node. Windows, Linux, and setups with only t
 
 ## Download
 
-**[Download ZIP](https://github.com/Frio99/open-in-t3code/archive/refs/heads/main.zip)**
+**[Download the latest version (macOS)](https://github.com/Frio99/open-in-t3code/releases/latest/download/Open.in.T3.Code.macOS.zip)**
 
 ## Install
 

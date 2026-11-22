@@ -8,6 +8,14 @@
 		<data>
 		gKmA9127d4Zp3ezAu2XLWwbfcQg=
 		</data>
+		<key>Resources/LICENSE</key>
+		<data>
+		38ZYT5odPQeRYYqffR2K6n5QCf0=
+		</data>
+		<key>Resources/THIRD_PARTY_NOTICES.md</key>
+		<data>
+		SJL7/MiatRkrYxOv/rno44JR+tg=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -16,6 +24,20 @@
 			<key>hash2</key>
 			<data>
 			CG54Z+Uq1HK6ctgihHAooOECVaHX5yyPd1TSlpAeLJs=
+			</data>
+		</dict>
+		<key>Resources/LICENSE</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YijvAzAx+iym9XiE0yTssAKVhlMTjs5CD4LYPFpn7x4=
+			</data>
+		</dict>
+		<key>Resources/THIRD_PARTY_NOTICES.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y+m/9/WgcigkOQjIBC8Q3sEQvXi2kyG2WPdPmqONv2U=
 			</data>
 		</dict>
 	</dict>

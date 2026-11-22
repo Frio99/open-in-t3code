@@ -29,11 +29,11 @@
 
 ## 下载
 
-**[下载 ZIP](https://github.com/Frio99/open-in-t3code/archive/refs/heads/main.zip)**
+**[下载最新版（macOS）](https://github.com/Frio99/open-in-t3code/releases/latest/download/Open.in.T3.Code.macOS.zip)**
 
 ## 安装
 
-1. 解压，把里面的 `Open in T3 Code.app` 拖进「应用程序」
+1. 解压，把 `Open in T3 Code.app` 拖进「应用程序」
 2. 在「应用程序」里双击它一次，按下面的方法放行
 3. 按住 `⌘`，把它从「应用程序」拖到访达窗口顶部的工具栏
 
