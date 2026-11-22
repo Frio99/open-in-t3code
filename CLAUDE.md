@@ -5,7 +5,7 @@
 ## 结构
 
 - `src/`：源码。`Launcher.m` 是可测试的逻辑，`main.m` 只管访达、系统事件和弹窗。
-- `resources/`：`Info.plist` 和图标。图标是 T3 字标加克莱因蓝渐变底（源文件 `AppIcon.svg`，中段主色 `#002FA7`，上亮下深）。不要改成官方已用的黑、浅蓝网格、深紫星空，渐变亮端也不要浅到接近官方 Dev。保留 `THIRD_PARTY_NOTICES.md` 和 README 里的非官方声明。
+- `resources/`：`Info.plist` 和图标。图标是 上白下灰的金属渐变 T3 字标，加深克莱因蓝渐变底和一圈细高光（源文件 `AppIcon.svg`）。底色不要深到在 32px 下和官方黑色分不开。不要改成官方已用的黑、浅蓝网格、深紫星空，渐变亮端也不要浅到接近官方 Dev。保留 `THIRD_PARTY_NOTICES.md` 和 README 里的非官方声明。
 - `tests/`：`./tests/run.sh`，不会打开真实的 T3 Code。
 - `Open in T3 Code.app/`：`./build.sh` 的产物，随仓库分发，不手改。
 
