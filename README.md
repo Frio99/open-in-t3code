@@ -103,4 +103,4 @@ xattr -dr com.apple.quarantine "/Applications/Open in T3 Code.app"
 
 ## 许可证
 
-[MIT](LICENSE)
+[MIT](LICENSE)。图标中的 T3 字标来自 T3 Code，版权归 T3 Tools Inc.，见[第三方声明](THIRD_PARTY_NOTICES.md)。

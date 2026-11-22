@@ -5,7 +5,7 @@
 ## 结构
 
 - `src/`：源码。`Launcher.m` 是可测试的逻辑，`main.m` 只管访达、系统事件和弹窗。
-- `resources/`：`Info.plist` 和原创图标。不使用 T3 官方 logo。
+- `resources/`：`Info.plist` 和图标。图标是 T3 字标加橙色底（源文件 `AppIcon.svg`），不要改成官方已用的黑、蓝、深紫配色。保留 `THIRD_PARTY_NOTICES.md` 和 README 里的非官方声明。
 - `tests/`：`./tests/run.sh`，不会打开真实的 T3 Code。
 - `Open in T3 Code.app/`：`./build.sh` 的产物，随仓库分发，不手改。
 

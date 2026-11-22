@@ -103,4 +103,4 @@ Requires Xcode Command Line Tools.
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE). The T3 wordmark in the icon comes from T3 Code, copyright T3 Tools Inc. See [third-party notices](THIRD_PARTY_NOTICES.md).
